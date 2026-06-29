@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohd Wasi Imam 👋</h1>
 
 <p align="center">
-  Final-year MCA Student at AMU &nbsp;|&nbsp; AI Engineer (Fresher) &nbsp;|&nbsp; GenAI Builder &nbsp;|&nbsp; RLHF Researcher
+  Final-year MCA Student at AMU &nbsp;|&nbsp; GenAI Developer &nbsp;|&nbsp; RLHF Researcher &nbsp;|&nbsp; Open to AI Roles
 </p>
 
 <p align="center">
